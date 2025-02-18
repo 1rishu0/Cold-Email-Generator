@@ -1,0 +1,4 @@
+chromadb
+pandas
+streamlit
+langchain
